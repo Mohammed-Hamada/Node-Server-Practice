@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Mohammed-Hamada/Node-Server-Practice#readme",
   "dependencies": {
-    "eslint": "^8.9.0"
+    "env2": "^2.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "nodemon": "^2.0.15"
   }
 }
